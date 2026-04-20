@@ -1,0 +1,8 @@
+﻿.obsidian/
+node_modules/
+.env
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
