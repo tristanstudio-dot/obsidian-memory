@@ -1,12 +1,12 @@
-﻿# CONTEXT SNAPSHOT
+# CONTEXT SNAPSHOT
 
 Last Updated: 2026-04-20 13:25:04
 
 ## Personal Info
 - Name: Stanislav
-- Age: 39
+- Age: 40
 - Location: Tashkent, Uzbekistan
-- Family: Firoza (wife) + 5 children
+- Family: Firuza (wife) + 5 children
 - Email: tristan.studio@gmail.com
 
 ## Active Projects
