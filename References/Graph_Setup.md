@@ -1,4 +1,4 @@
-﻿# Obsidian Graph - Настройка
+# Obsidian Graph - Настройка
 
 ## ОТКРЫТЬ ГРАФ
 
