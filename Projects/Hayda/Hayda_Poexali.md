@@ -1,4 +1,4 @@
-﻿# HIDO/Поехали - Telegram WebApp для водителей
+# HIDO/Поехали - Telegram WebApp для водителей
 
 ## Статус
 🟡 **IN PROGRESS** - Разработка и тестирование

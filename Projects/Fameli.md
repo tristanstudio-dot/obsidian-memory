@@ -1,4 +1,4 @@
-﻿# Faméli - Family Club (Клуб семейного отдыха)
+# Faméli - Family Club (Клуб семейного отдыха)
 
 ## Статус
 🟡 **MVP** - Запущен через Instagram

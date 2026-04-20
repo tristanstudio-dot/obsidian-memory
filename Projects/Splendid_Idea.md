@@ -1,4 +1,4 @@
-﻿# Splendid Idea - Premium B2B Brand Concierge
+# Splendid Idea - Premium B2B Brand Concierge
 
 ## Статус
 🟢 **ACTIVE** - Основной проект, генерирует доход

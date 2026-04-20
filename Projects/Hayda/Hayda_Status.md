@@ -1,4 +1,4 @@
-﻿# HAYDA - Полная информация
+# HAYDA - Полная информация
 
 **Статус:** 🟢 MVP РАБОТАЕТ (Ripple + Telegram Mini App)
 
