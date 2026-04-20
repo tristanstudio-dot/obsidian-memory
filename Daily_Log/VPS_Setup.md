@@ -1,4 +1,4 @@
-﻿# VPS Setup & Obsidian Sync - Логирование
+# VPS Setup & Obsidian Sync - Логирование
 
 ## Дата: 2026-04-20
 
