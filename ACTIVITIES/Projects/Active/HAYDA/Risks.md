@@ -1,4 +1,4 @@
-﻿# HAYDA - Карта рисков
+# HAYDA - Карта рисков
 
 **Tags:** #project #hayda #risks
 

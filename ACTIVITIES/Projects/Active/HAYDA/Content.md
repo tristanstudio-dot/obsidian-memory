@@ -1,4 +1,4 @@
-﻿# HAYDA - Контент для 5 агентов
+# HAYDA - Контент для 5 агентов
 
 **Tags:** #project #hayda #content #marketing
 

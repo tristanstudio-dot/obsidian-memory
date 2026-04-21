@@ -1,4 +1,4 @@
-﻿# HAYDA - Дорожка разработки
+# HAYDA - Дорожка разработки
 
 **Tags:** #project #hayda #roadmap
 

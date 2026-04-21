@@ -1,4 +1,4 @@
-﻿# HAYDA - Статус MVP
+# HAYDA - Статус MVP
 
 **Tags:** #project #hayda #mvp
 
