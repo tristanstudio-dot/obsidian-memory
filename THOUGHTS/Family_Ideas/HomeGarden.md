@@ -1,4 +1,4 @@
-﻿# HomeGarden - Идея озеленения дома
+# HomeGarden - Идея озеленения дома
 
 **Tags:** #hayda #family_idea #homegarden
 
