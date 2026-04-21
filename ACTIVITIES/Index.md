@@ -10,22 +10,22 @@
 
 ### 🟢 Активные
 
-- [[Projects/Active/HAYDA/Overview|HAYDA]] (Telegram приложение для такси водителей)
-- [[Projects/Active/Splendid_Idea/Overview|Splendid Idea]] (Бренд-консьерж сервис)
-- (добавить другие)
+- [[Projects/Active/HAYDA/Overview|📱 HAYDA]] (Telegram приложение для такси водителей)
+  - [[Projects/Active/HAYDA/Finance|Финансы]]
+  - [[Projects/Active/HAYDA/Roadmap|Roadmap]]
+  - [[Projects/Active/HAYDA/Risks|Риски]]
+  - [[Projects/Active/HAYDA/MVP_Status|MVP Статус]]
+  - [[Projects/Active/HAYDA/Content|Контент]]
+
+- [[Projects/Active/Splendid_Idea/Overview|🎨 Splendid Idea]] (Бренд-консьерж сервис)
 
 ### 🟡 В ожидании
 
-Проекты которые ждут решения, ресурсов или момента запуска.
-
-- [[Projects/Waiting/HomeGarden/Overview|HomeGarden]] (озеленение дома - ждём решения Фирузы)
-- (добавить)
+- [[Projects/Waiting/HomeGarden/Overview|🌿 HomeGarden]] (озеленение дома - ждём решения Фирузы)
 
 ### ⚫ Архив
 
-Завершённые или заморозенные проекты.
-
-- (добавить)
+(добавить)
 
 ---
 
@@ -33,20 +33,17 @@
 
 ### 🟢 Активные
 
-- [[Businesses/Active/Splendid_Idea|Splendid Idea]] (основной бизнес)
-- (добавить)
+- [[Businesses/Active/Splendid_Idea|🎨 Splendid Idea]] (основной бизнес)
 
 ### 🟡 На паузе
 
-- (добавить)
+(добавить)
 
 ---
 
 ## 🎯 ДРУГАЯ ДЕЯТЕЛЬНОСТЬ
 
-- [[Other_Activities/Learning|Обучение]]
-- [[Other_Activities/Travel|Путешествия]]
-- (добавить)
+(добавить)
 
 ---
 
